@@ -1,0 +1,14 @@
+{
+  "ernVersion": "0.37.3",
+  "jsApiImpls": [],
+  "miniApps": [
+    "file:/var/folders/f3/hz_snc7x3dzgpxdbbv0s11n00000gn/T/tmp-28579eHdjvn5e0rc0"
+  ],
+  "nativeDeps": [
+    "react-native@0.59.4",
+    "ernnavigation-api@1.1.0",
+    "ernnavigation-api-impl-native@1.2.3",
+    "react-native-electrode-bridge@1.5.19"
+  ],
+  "platform": "ios"
+}
